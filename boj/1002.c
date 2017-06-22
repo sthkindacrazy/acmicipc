@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
 	int test,x1,y1,r1,x2,y2,r2,R,r,di;
 	scanf("%d", &test);
